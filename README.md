@@ -19,12 +19,12 @@ Installing MacOS Sierra on an Intel based custom machine
 * macOS Sierra Installation
 * Disk Utility
 * Unibeast
-* Multibeast
+* Multibeast https://www.tonymacx86.com/resources/multibeast-high-sierra-10-2-0.360/
 * Clover Configurator
 * Patch-nvme-master
 * Kext Utility
 * audio_CloverALC
-* Vidia Web Driver 378.05.05.xx
+* nVidia Web Driver 378.05.05.xx https://images.nvidia.com/mac/pkg/378/WebDriver-378.05.05.25f01.pkg
 * CodecCommander.kext
 ### SSD Note
 As macOS Sierra doesn’t recognize the Samsung 960 EVO SSD during installation the only workaround I have found is to install it on a regular drive and then using cloning software such as Carbon Copy Cloner to clone the HDD to SSD. You will need to patch the OS first and once the SSD appears as available drive you can clone it.
